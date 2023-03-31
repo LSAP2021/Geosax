@@ -1,0 +1,14 @@
+pandas ==1.1.4
+ttcrpy
+vtk
+Pillow==8.1.2
+ctgan==0.4.2
+graphviz==0.16
+pydot==1.4.1
+numpy >=1.19
+opencv-python==4.5.2.52
+scikit-image==0.17.2
+sdv==0.10.1
+setuptools
+cython
+h5py
